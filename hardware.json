@@ -343,6 +343,14 @@
     "display": "5.5 inch, 1280x720 pixel(267ppi)",
     "cpuarch": "arm"
   },
+  "h3duoschn": {
+    "cpu": "Qualcomm® Snapdragon™ 800",
+    "ram": "3GB",
+    "rom": "16GB/32GB",
+    "battery": "3200 mAh",
+    "display": "5.7 inch, 1920x1080 pixel(361ppi)",
+    "cpuarch": "arm"
+  },
   "h830": {
     "cpu": "Qualcomm® Snapdragon™ 820",
     "ram": "4GB",
