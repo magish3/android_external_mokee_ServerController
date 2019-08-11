@@ -430,6 +430,14 @@
     "battery": "4850 mAh",
     "display": "6.44 inch, 1920x1080 pixel(342ppi)",
     "cpuarch": "arm64"
+     },
+  "h3duoschn": {
+    "cpu": "Qualcomm® Snapdragon™ 800",
+    "ram": "3GB",
+    "rom": "16GB/32GB",
+    "battery": "3200 mAh",
+    "display": "5.7 inch, 1920x1080 pixel(360ppi)",
+    "cpuarch": "arm"
   },
   "i9300": {
     "cpu": "Samsung Exynos 4412",
